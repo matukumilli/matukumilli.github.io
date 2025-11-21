@@ -1,20 +1,18 @@
 ---
 layout: about
-title: Prasad Matukumilli
+title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher @ <a href='https://www.jncasr.ac.in'>JNCASR Bengaluru</a> | Computational Materials Science
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>email: matukumilli@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,8 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. TELL THE WORLD ABOUT YOURSELF. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on the theory of materials, with an emphasis on understanding and predicting the vibrational and thermal behavior of structurally complex solids. I use approaches ranging from classical molecular dynamics and machine-learning force fields to advanced first-principles and variational lattice-dynamics methods that fully capture quantum fluctuations, finite-temperature effects, and strong anharmonicity.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My PhD work at [IIT Kharagpur](https://www.iitkgp.ac.in/) centered on phonon-scattering dynamics. A notable outcome from this period was establishing a widely cited connection between phonons and friction in CNTs. In my postdoctoral work at [JNCASR](https://www.jncasr.ac.in) under the supervision of [Umesh Waghmare](https://www.jncasr.ac.in/faculty/waghmare), I investigated the complex thermodynamics of phonons in next-generation thermoelectric materials. Their local symmetry breaking and inherent anharmonicity demanded sophisticated finite-temperature lattice-dynamics approaches, which I applied to reveal their vibrational behavior. A key result was identifying how overlooked s–d coupling shapes confinement–correlation balance and drives phonon softening at zone-boundary modes in copper-rich materials. A characteristic of my work is balancing rigorous theoretical frameworks with pragmatic, physically intuitive reasoning—an approach that naturally fosters close collaborations with experimental groups.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

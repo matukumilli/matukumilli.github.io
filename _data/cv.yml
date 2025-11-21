@@ -2,33 +2,55 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Matukumilli Venkata Durga Prasad
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8th August, 1980
+    - name: Nationality
+      value: Indian      
     - name: Languages
-      value: English, German
+      value: English, Telugu and Hindi
+      
+- title: Research Areas
+  type: list
+  contents:
+    - '\item Computational materials science with a focus on thermal transport in complex crystals, including anharmonic phonon–phonon interactions, finite-temperature lattice dynamics, and frictional phenomena.
+\item Skilled in molecular dynamics (MD) and first-principles density functional theory (DFT), leveraging machine-learning force fields for near-quantum accuracy.
+\item Investigating diverse atomic vibration regimes, from overdamped motion to quantum fluctuations, and extending machine-learning frameworks to capture charge response, electronic structure, and spin properties.
+\item Applications include superionic transport, thermoelectrics, nonlinear transport phenomena, phason dynamics, and quantum geometric effects.' 
 
-- title: Education
+- title: Academic Career
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Postdoctoral Researcher in Materials Theory
+      institution: JNCASR, Bengaluru
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - '<u>Topic:</u> Thermal transport in complex crystals'
+        - '<u>Advisor:</u> <a href="https://www.jncasr.ac.in/faculty/waghmare">Umesh Waghmare</a>'
 
-- title: Experience
+    - title: Postdoctoral Research Consultant in Applied Physics
+      institution: Indian Institute of Technology Kharagpur, WB, India
+      year: 2015-2017
+      description:
+        - '<u>Topic:</u> Phononic origins of nanoscale friction & multiscale modelling of CNT-epoxy polymer nanocomposites'
+        - '<u>Advisor:</u> <a href="https://scholar.google.co.in/citations?user=-iiTsI0AAAAJ">Baidurya Bhattacharya</a>'
+  
+    - title: PhD in Applied Physics
+      institution: Indian Institute of Technology Kharagpur, WB, India
+      year: 2008-2015
+      description:
+        - '<u>Thesis:</u> <a href=" http://www.idr.iitkgp.ac.in/xmlui/handle/123456789/6473/">Phonon Scattering Dynamics of Sliding Motion in Carbon Nanotube Oscillators</a>'
+        - '<u>Advisor:</u> <a href="https://scholar.google.co.in/citations?user=-iiTsI0AAAAJ">Baidurya Bhattacharya</a>'
+        #- 'Obtained with distinction <b>cum laude</b>'
+
+    - title: B.E. in Mechanical Engineering
+      institution: Andhra University College of Engineering, Visakhapatnam, AP
+      year: 2001-2005
+      description:
+        - '<u>GPA:</u> 9.3/10'
+
+        
+- title: Work Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -71,27 +93,59 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 20117
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Research Award by National PARAM Supercomputing Facility, Pune
+        - one among the top five outstanding research works carried-out using PARAM YUVA II in the year 2016-17
+    - year: 2016
       items:
-        - Max Planck Medal
+        - Best Poster Award at National Symposium on Ultrasonics 2016, S. N. Bose National Centre for Basic Sciences, Kolkata
 
-- title: Academic Interests
+
+- title: Services
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: 'Conferences'
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - 'Student Organizing Committee, MACB-2020, JNCASR (Feb 2020): Celebrated the 80th birthday of Prof. Mike Klein'
 
-- title: Other Interests
-  type: list
+    - title: 'Peer Reviewing'
+      items:
+        - 'Nanotechnology'
+        - 'Smart Materials and Structures'
+        - 'ACS Applied Energy Materials'
+        - 'Nanoscale'
+        - 'Computational Materials'                
+        - 'Materials Research Express'
+        
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+
+- title: References
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Advisors
+      items:
+        - '<b><a href="https://www.jncasr.ac.in/faculty/waghmare">Umesh Waghmare</a>:</b> academic advisor for DFT calculations during Post-doc'
+        - '<b><a href="https://scholar.google.co.in/citations?user=-iiTsI0AAAAJ&hl=en">
+Baidurya Bhattacharya
+</a>:</b> academic advisor in molecular simulations during PhD'
+    
+    - title: Collaborations
+      items:
+        - '<b><a href="https://www.jncasr.ac.in/faculty/kanishka">Kanishka Biswas</a>:</b> frequent collaborator in thermoelectric chemistry'
