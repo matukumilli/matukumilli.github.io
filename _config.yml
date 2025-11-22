@@ -236,6 +236,7 @@ exclude:
   - readme_preview/
   - vendor
   - _old_pages/
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
