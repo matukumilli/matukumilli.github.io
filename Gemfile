@@ -45,6 +45,8 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-jupyter-notebook"
   gem "jekyll-tabs"
+  gem "jemoji"
+  gem "css_parser"
 end
 
 gem "activesupport"

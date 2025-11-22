@@ -248,7 +248,6 @@ plugins:
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
-  - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
@@ -256,27 +255,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
-  - jekyll-twitter-plugin
   - jemoji
   - terser
-  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-gist
-  - jemoji
-  - jekyll-paginate
-  - jekyll/scholar
-  - jekyll-toc
-  - jekyll-regex-replace
-  - jekyll-imagemagick
-  - jekyll-get-json
-  - jekyll-jupyter-notebook
-  - jekyll-minifier
-  - jekyll-archives
-  - jekyll-email-protect
-  - jekyll-paginate-v2
-  - jekyll_include_plugin
-  - jekyll-tabs
   - jekyll-remote-theme
 
 # Sitemap settings
