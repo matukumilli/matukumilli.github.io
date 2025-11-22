@@ -13,6 +13,7 @@ nav_order: 1
 preprints_years: [2025]
 articles_years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 bookchapters_years: [2019]
+thesis_years: [2016]
 ---
 
 <div class="publications">
@@ -38,5 +39,11 @@ bookchapters_years: [2019]
   {% endfor %}
   {% endif %}
 
+  {% if page.thesis_years %}
+  <h2 class="pub-type">PhD Thesis</h2>
+  {% for y in page.thesis_years %}
+    {% bibliography -f thesis -q @*[year={{ y }}]* %}
+  {% endfor %}
+  {% endif %}
 </div>
 

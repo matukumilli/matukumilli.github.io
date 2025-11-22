@@ -13,10 +13,11 @@
 - title: Research Areas
   type: list
   contents:
-    - '\item Computational materials science with a focus on thermal transport in complex crystals, including anharmonic phonon–phonon interactions, finite-temperature lattice dynamics, and frictional phenomena.
-\item Skilled in molecular dynamics (MD) and first-principles density functional theory (DFT), leveraging machine-learning force fields for near-quantum accuracy.
-\item Investigating diverse atomic vibration regimes, from overdamped motion to quantum fluctuations, and extending machine-learning frameworks to capture charge response, electronic structure, and spin properties.
-\item Applications include superionic transport, thermoelectrics, nonlinear transport phenomena, phason dynamics, and quantum geometric effects.' 
+     - Exploring thermal transport in complex crystals using first-principles DFT, anharmonic phonon theory, finite-T lattice dynamics, and ML-based MD, covering vibrational regimes from overdamped motion to quantum fluctuations. Applications include thermoelectrics, superionicity, phason dynamics, and quantum-geometry–driven nonlinear transport.
+#    - 'Computational materials science with a focus on thermal transport in complex crystals, including anharmonic #phonon–phonon interactions, finite-temperature lattice dynamics, and frictional phenomena. 
+#Skilled in molecular dynamics (MD) and first-principles density functional theory (DFT), leveraging machine-learning #force fields for near-quantum accuracy. 
+#Investigating diverse atomic vibration regimes, from overdamped motion to quantum fluctuations, and extending machine-#learning frameworks to capture charge response, electronic structure, and spin properties. 
+#Applications include superionic transport, thermoelectrics, nonlinear transport phenomena, phason dynamics, and #quantum geometric effects.' 
 
 - title: Academic Career
   type: time_table
@@ -41,54 +42,34 @@
       description:
         - '<u>Thesis:</u> <a href=" http://www.idr.iitkgp.ac.in/xmlui/handle/123456789/6473/">Phonon Scattering Dynamics of Sliding Motion in Carbon Nanotube Oscillators</a>'
         - '<u>Advisor:</u> <a href="https://scholar.google.co.in/citations?user=-iiTsI0AAAAJ">Baidurya Bhattacharya</a>'
-        #- 'Obtained with distinction <b>cum laude</b>'
 
     - title: B.E. in Mechanical Engineering
       institution: Andhra University College of Engineering, Visakhapatnam, AP
       year: 2001-2005
-      description:
-        - '<u>GPA:</u> 9.3/10'
 
         
 - title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Associate
+      institution: JNCASR, Bengaluru
+      year: 2017 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Combined electronic-structure modeling with <a href="https://sscha.eu/">SSCHA</a> to study how stereochemically active lone pairs and symmetry-breaking distortions modulate anharmonic phonon behavior and thermal transport in thermoelectrics.
+        - Analyzed the role of ionic motion in shaping anharmonic and thermodynamic properties of disordered crystals, leveraging ML-trained force fields, large-scale MD, and <a href="https://tdep-developers.github.io/tdep/">TDEP</a> phonon renormalization techniques.
+        
+    - title: Research Consultant
+      institution: Indian Institute of Technology Kharagpur, WB, India
+      year: 2015-2017
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted research on nanoscale friction in carbon nanotubes and layered 2D materials, providing atomistic insight into frictional dissipation mechanisms relevant for nano-devices and tribological applications..
+        - Collaborated with the <a href="https://www.vssc.gov.in/">Vikram Sarabhai Space Centre (VSSC)</a> on multiscale modelling of CNT-reinforced epoxy nanocomposites, integrating atomistic and continuum-level simulations to evaluate material behaviour.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Jr. Engineer
+      institution:  <a href="https://www.synergies-castings.com/home.html">SYNERGIES CASTINGS Ltd</a>, Visakhapatnam
+      year: 2006-2007
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Received extensive early-career exposure to full-cycle mechanical processing, from casting through precision machining and coating, which provided a highly valuable introduction to manufacturing environments and hands-on engineering experience.
 
 - title: Honors and Awards
   type: time_table
@@ -115,7 +96,7 @@
         - 'Smart Materials and Structures'
         - 'ACS Applied Energy Materials'
         - 'Nanoscale'
-        - 'Computational Materials'                
+        - 'Computational Materials Science'                
         - 'Materials Research Express'
         
 #- title: Academic Interests
