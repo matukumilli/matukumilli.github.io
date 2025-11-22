@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
-gem "webrick", "~> 1.8"
+gem "jekyll", "~> 4.4"
 
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
@@ -47,6 +46,8 @@ group :jekyll_plugins do
   gem "jekyll-tabs"
   gem "jemoji"
   gem "css_parser"
+  gem "faraday-retry"
+  gem "webrick"
 end
 
 gem "activesupport"
