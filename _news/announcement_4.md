@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visiting the lab of [Ricardo Grau-Crespo](https://github.com/gcmt-group) at [University of Reading](https://www.reading.ac.uk) 
+Visit to [Ricardo Grau-Crespo](https://github.com/gcmt-group)’s lab, [University of Reading](https://www.reading.ac.uk) 
