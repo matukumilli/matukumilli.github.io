@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Matukumilli Venkata Durga Prasad
-    - name: Date of Birth
-      value: 8th August, 1980
+#    - name: Date of Birth
+#      value: 8th August, 1980
     - name: Nationality
       value: Indian      
     - name: Languages
