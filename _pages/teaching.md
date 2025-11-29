@@ -44,7 +44,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0">2013–2014: Undergraduate Student Mentorship</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">- Introduced the student to high‑performance computing (HPC) workflows and best practices.</li>
-      <li class="list-group-item">- Supervised a research project on classical molecular dynamics simulations of thermal transport in metal nanoclusters encapsulated within carbon nanotubes.</li>      
+      <li class="list-group-item">- Worked on a research project investigating thermal transport in metal nanoclusters encapsulated within carbon nanotubes using classical molecular dynamics simulations.</li>      
     </ul>
   </div>
 </div>
