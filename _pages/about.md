@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Postdoctoral Researcher @ <a href='https://www.jncasr.ac.in'>JNCASR Bengaluru</a> | Computational Materials Science
+subtitle: Postdoctoral Researcher @ <a href='https://www.jncasr.ac.in'>JNCASR Bengaluru</a> | Computational Materials Physics
 
 profile:
   align: right
