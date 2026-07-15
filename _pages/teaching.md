@@ -22,8 +22,8 @@ nav_order: 3
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">2016: Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="mt-2">   - General introduction to use of high‑performance computing (HPC) systems</li>
-      <li class="mt-2">   - Teaching assistant for hands‑on Molecular Dynamics simulations with LAMMPS</li>
+      <li class="mt-2">   General introduction to use of high‑performance computing (HPC) systems</li>
+      <li class="mt-2">   Teaching assistant for hands‑on Molecular Dynamics simulations with LAMMPS</li>
     </ul>
   </div>
 </div>
@@ -43,8 +43,8 @@ nav_order: 3
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">2013–2014: Undergraduate Student Mentorship</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="mt-2">   - Introduced the student to high‑performance computing (HPC) workflows and best practices.</li>
-      <li class="mt-2">   - Worked on a research project investigating thermal transport in metal nanoclusters encapsulated within carbon nanotubes using classical molecular dynamics simulations.</li>
+      <li class="mt-2">   Introduced the student to high‑performance computing (HPC) workflows and best practices.</li>
+      <li class="mt-2">   Worked on a research project investigating thermal transport in metal nanoclusters encapsulated within carbon nanotubes using classical molecular dynamics simulations.</li>
     </ul>
   </div>
 </div>
