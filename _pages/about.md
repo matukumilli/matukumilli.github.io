@@ -31,8 +31,10 @@ My PhD work at [IIT Kharagpur](https://www.iitkgp.ac.in/) centered on phonon-sca
 I study theoretically the vibrational states in solids through the lens of heat transport, spanning coherent and ballistic conduction, phonon hydrodynamics, quantum-geometric and Wigner transport, phason-mediated and superionic (“liquid-in-solid”) heat flow, and strongly anharmonic lattice behavior—several reflected in my published work and others guiding my ongoing theoretical efforts.
 
 I study theoretically the vibrational states in solids through the lens of heat transport, exploring emerging regimes such as Wigner transport, phonon hydrodynamics, phason-mediated and superionic-diffusion-mediated heat flow, coherent and ballistic conduction, and more exotic quantum-geometric mechanisms—some already reflected in my published work, others now driving my ongoing theoretical efforts.
--->
+
 I study theoretically the vibrational states in solids through the lens of heat transport, exploring emerging regimes such as Wigner transport, phonon hydrodynamics, phason-mediated and superionic-diffusion-mediated heat flow, coherent and ballistic conduction, and ultimately the quantum-geometry–induced transport channels that define the most fundamental characteristics of heat flow—some already reflected in my published work, others now driving my ongoing theoretical efforts.
+-->
+I study theoretically the vibrational states in solids through the lens of heat transport, exploring emerging regimes such as Wigner transport, phonon hydrodynamics, phason-mediated and superionic-diffusion-mediated heat flow, and ultimately the quantum-geometry–induced transport channels that define the most fundamental characteristics of heat flow—some already reflected in my published work, others now driving my ongoing theoretical efforts.
 
 By treating the free-energy Hamiltonian either quantum-variationally (SSCHA) or through finite-temperature fitting (TDEP), and sampling the underlying PES from first-principles calculations or AIMD trajectories, I investigate diverse chemical-bonding scenarios that give rise to extreme anharmonicity.
 
