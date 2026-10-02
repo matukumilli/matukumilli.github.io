@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-02-22 07:59:00-0400
+date: 2017-05-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Visit to [Ricardo Grau-Crespo](https://github.com/gcmt-group)’s lab, [University of Reading](https://www.reading.ac.uk) 
+Today I officially started as a Postdoctoral Researcher in the lab of [Umesh Waghmare](https://www.jncasr.ac.in/faculty/waghmare)! 
