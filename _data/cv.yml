@@ -74,7 +74,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 20117
+    - year: 2017
       items:
         - Outstanding Research Award by National PARAM Supercomputing Facility, Pune
         - one among the top five outstanding research works carried-out using PARAM YUVA II in the year 2016-17
@@ -92,12 +92,11 @@
 
     - title: 'Peer Reviewing'
       items:
-        - 'Nanotechnology'
-        - 'Smart Materials and Structures'
-        - 'ACS Applied Energy Materials'
-        - 'Nanoscale'
-        - 'Computational Materials Science'                
-        - 'Materials Research Express'
+        - 'American Chemical Society (ACS): ACS Applied Energy Materials; ACS Applied Nano Materials'
+        - 'IOP Publishing: Nanotechnology; Smart Materials and Structures; Materials Research Express'
+        - 'Royal Society of Chemistry (RSC): Nanoscale; Nanoscale Advances'
+        - 'Elsevier: Computational Materials Science'
+        - 'American Physical Society (APS): Physical Review B'
         
 #- title: Academic Interests
 #  type: nested_list
